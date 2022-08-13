@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiarutama
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript
 
 <!---
 tiarutama/tiarutama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
